@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../src/index.ts"],"names":[],"mappings":";;AAAA,qDAA+E;AAAvE,kCAAA,UAAU,CAAA;AAAE,oCAAA,YAAY,CAAA;AAAE,sCAAA,cAAc,CAAA","sourcesContent":["export {WebStorage, LocalStorage, SessionStorage} from './decorator/webstorage'\n"]}
